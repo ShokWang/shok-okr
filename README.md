@@ -4,3 +4,7 @@
 - key result：熟练Kubernetes源码（整个架构体系）
 - key result：熟练一种分布式存储方案（架构以及源码级别）
 - key result：熟练一种Kubernetes计算机网络体系（包含所有基础网络知识）
+- key result：开源一个大数据与Kubernetes结合的数据云产品（datac）
+
+
+​	以上关键结果不分先后
